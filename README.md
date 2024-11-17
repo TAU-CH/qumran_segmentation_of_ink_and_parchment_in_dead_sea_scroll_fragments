@@ -47,6 +47,7 @@ Includes:
 ### Visual Results
 
 Below is a comparison of the original image, Otsu segmentation, and MTEM segmentation for a Dead Sea Scroll fragment.
+For more results, visit [this page](https://www.cs.tau.ac.il/~berat/dss_ink_parchment_segmentation.html).
 
 ### Original Image
 ![Original Image](readme_images/color_124_004.jpg "Original Image")
