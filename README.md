@@ -48,14 +48,13 @@ Includes:
 
 Below is a comparison of the original image, Otsu segmentation, and MTEM segmentation for a Dead Sea Scroll fragment.
 
-<p align="center">
-  <img src="readme_images/color_124_004.jpg" alt="Original Image" width="300" title="Original Image">
-  <img src="readme_images/otsu_124_004.png" alt="Otsu Segmentation" width="300" title="Otsu Segmentation">
-  <img src="readme_images/mtem_124_004.png" width="300" title="MTEM Segmentation">
-</p>
+### Original Image
+![Original Image](readme_images/color_124_004.jpg "Original Image")
 
-- **Left**: Original image  
-- **Center**: Otsu segmentation  
-- **Right**: MTEM segmentation
+### Otsu Segmentation
+![Otsu Segmentation](readme_images/otsu_124_004.png "Otsu Segmentation")
+
+### MTEM Segmentation
+![MTEM Segmentation](readme_images/mtem_124_004.png "MTEM Segmentation")
 
 ---
