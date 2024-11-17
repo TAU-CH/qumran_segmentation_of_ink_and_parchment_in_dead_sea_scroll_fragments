@@ -49,9 +49,9 @@ Includes:
 Below is a comparison of the original image, Otsu segmentation, and MTEM segmentation for a Dead Sea Scroll fragment.
 
 <p align="center">
-  <img src="TAU-CH/segmentation_of_ink_and_parchment_in_dead_sea_scroll_fragments/readme_images/color_124_004.jpg" alt="Original Image" width="300" title="Original Image">
-  <img src="TAU-CH/segmentation_of_ink_and_parchment_in_dead_sea_scroll_fragments/readme_images/otsu_124_004.jpg" alt="Otsu Segmentation" width="300" title="Otsu Segmentation">
-  <img src="TAU-CH/segmentation_of_ink_and_parchment_in_dead_sea_scroll_fragments/readme_images/mtem_124_004.jpg" width="300" title="MTEM Segmentation">
+  <img src="readme_images/color_124_004.jpg" alt="Original Image" width="300" title="Original Image">
+  <img src="readme_images/otsu_124_004.png" alt="Otsu Segmentation" width="300" title="Otsu Segmentation">
+  <img src="readme_images/mtem_124_004.png" width="300" title="MTEM Segmentation">
 </p>
 
 - **Left**: Original image  
