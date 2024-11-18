@@ -4,7 +4,7 @@ This repository provides the code and dataset for **Segmentation of Ink and Parc
 
 > **Berat Kurar-Barakat and Nachum Dershowitz**,  
 > *Segmentation of Ink and Parchment in Dead Sea Scroll Fragments*. 
-> [Read the Paper](https://www.cs.tau.ac.il/~berat/index.html)
+> [Read the Paper](https://beratkurar.github.io/papers/icdar_ijdar_2025_preprint.pdf)
 
 ---
 
@@ -30,7 +30,7 @@ Includes:
 - Full-color images, first-band images, last-band images, and normalized versions of the last-band images.
 - Pixel-level annotations for evaluating segmentation accuracy.
 
-**Download**: [QSD Link](https://github.com/TAU-CH/segmentation_of_ink_and_parchment_in_dead_sea_scroll_fragments/releases/download/v1/QSD.zip)
+**Download**: [QSD Link](https://github.com/TAU-CH/qumran_segmentation_of_ink_and_parchment_in_dead_sea_scroll_fragments/releases/download/v1/QSD.zip)
 
 ---
 
