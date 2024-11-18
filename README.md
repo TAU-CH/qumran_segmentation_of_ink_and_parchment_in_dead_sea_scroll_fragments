@@ -1,10 +1,11 @@
 # Segmentation of Ink and Parchment in Dead Sea Scroll Fragments 	
 
-This repository provides the code and dataset for **Segmentation of Ink and Parchment in Dead Sea Scroll Fragments**, as presented in the following preprint:
+This repository provides the code and dataset presented in the following preprint:
 
 > **Berat Kurar-Barakat and Nachum Dershowitz**,  
-> *Segmentation of Ink and Parchment in Dead Sea Scroll Fragments*. 
-> [Read the Paper](https://beratkurar.github.io/papers/icdar_ijdar_2025_preprint.pdf)
+> *Segmentation of Ink and Parchment in Dead Sea Scroll Fragments*.
+> 
+> [Read the paper](https://beratkurar.github.io/papers/icdar_ijdar_2025_preprint.pdf)
 
 ---
 
